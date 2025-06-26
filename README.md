@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Macamoi**
 
-- 🌱 I’m currently learning **AI lab**
+- 🌱 I’m currently learning **AI**
 
 - 💬 Ask me about **Story Engineering / Running**
 
