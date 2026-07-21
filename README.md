@@ -1,8 +1,6 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Rafiki</h1>
-<h3 align="center">Story Engineer</h3>
-
 - Story Engineer | Decoding what makes stories unforgettable   
 - Runner | Exploring new places through running
 
